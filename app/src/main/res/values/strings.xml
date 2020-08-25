@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DATA</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="enter_password">enter password</string>
+    <string name="reenter_your_password">reenter your password</string>
+    <string name="enter_your_username">enter your username</string>
+    <string name="username">USERNAME</string>
+    <string name="re_enter_password">RE-ENTER PASSWORD</string>
+    <string name="signup">signup</string>
+    <string name="enter1_password">ENTER PASSWORD</string>
+</resources>
